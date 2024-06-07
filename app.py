@@ -5,7 +5,7 @@ from flask import Flask, jsonify, request
 DB_HOST = "localhost"
 DB_NAME = "Good Reading Book Store"
 DB_USER = "postgres"
-DB_PASS = "1sampai8"
+DB_PASS = "xxxxxx"
 
 # load_dotenv()
 conn = psycopg2.connect(database=DB_NAME, host=DB_HOST, user=DB_USER, password=DB_PASS, port="5432")
