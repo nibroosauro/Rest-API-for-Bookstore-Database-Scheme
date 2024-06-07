@@ -25,8 +25,8 @@ To get started with testing the Good Reading Bookstore API, follow these steps:
 4. **Run the Program**: Execute the provided code, just type this command `python app.py`.
 
 ## Documentation
-1. [Database Architecture]() 
-2. [API Explanation](https://github.com/nibroosauro/Rest-API-for-Bookstore-Scheme/blob/main/Report%20of%20Database%20API%20Development.pdf)
+1. [ERD and Database Architecture](https://github.com/nibroosauro/Rest-API-for-Bookstore-Scheme/blob/main/Documentation/Report%20of%20Expanding%20Database%20and%20It's%20Architecture.pdf) 
+2. [API Explanation & Development](https://github.com/nibroosauro/Rest-API-for-Bookstore-Scheme/blob/main/Report%20of%20Database%20API%20Development.pdf)
 3. [Demo Video of API Testing](https://youtu.be/QOtCwTzTo6c?feature=shared)
 
 ## Resources 
