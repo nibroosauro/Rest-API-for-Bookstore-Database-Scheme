@@ -8,7 +8,8 @@ In this project, we explore various endpoints of the Good Reading Bookstore API,
 
 ## Features
 
-- **Testing Endpoints**: Explore multiple endpoints of the Good Reading Bookstore API, including:
+**Testing Endpoints**
+Explore multiple endpoints of the Good Reading Bookstore API, including:
   - Retrieve book information based on authorname
   - Create new user
   - Update new password
@@ -18,12 +19,16 @@ In this project, we explore various endpoints of the Good Reading Bookstore API,
 ## Getting Started
 
 To get started with testing the Good Reading Bookstore API, follow these steps:
-
 1. **Clone the Repository**: Clone this repository to your local machine using the following command: `git clone https://github.com/nibroosauro/Rest-API-for-Bookstore-Scheme.git`.
 2. **Configure Environment Variables**: Set up any required environment variables, in this repository I establish virtual environment for my program.
 3. **Install Dependencies**: Ensure you have all the necessary dependencies installed to run the tests. You could just run this command on your terminal `pip install -r requirements.txt`.
 4. **Run the Program**: Execute the provided code, just type this command `python app.py`.
 
+## Documentation
+1. [Database Architecture]() 
+2. [API Explanation](https://github.com/nibroosauro/Rest-API-for-Bookstore-Scheme/blob/main/Report%20of%20Database%20API%20Development.pdf)
+3. [Demo Video of API Testing](https://youtu.be/QOtCwTzTo6c?feature=shared)
+
 ## Resources 
 
-- [Building Rest API using Flask](https://youtu.be/DlNIXC9SaF4?feature=shared)
+1. [Building Rest API using Flask](https://youtu.be/DlNIXC9SaF4?feature=shared)
