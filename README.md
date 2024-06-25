@@ -21,8 +21,9 @@ Explore multiple endpoints of the Good Reading Bookstore API, including:
 To get started with testing the Good Reading Bookstore API, follow these steps:
 1. **Clone the Repository**: Clone this repository to your local machine using the following command: `git clone https://github.com/nibroosauro/Rest-API-for-Bookstore-Scheme.git`.
 2. **Configure Environment Variables**: Set up any required environment variables, in this repository I establish virtual environment for my program.
-3. **Install Dependencies**: Ensure you have all the necessary dependencies installed to run the tests. You could just run this command on your terminal `pip install -r requirements.txt`.
-4. **Run the Program**: Execute the provided code, just type this command `flask run`.
+4. **Configure Database**: all set-up in code above only works for my database configuration. So, edit based on your configuration to avoid folly error, better watch for the global variable in `app.py` file.
+4. **Install Dependencies**: Ensure you have all the necessary dependencies installed to run the tests. You could just run this command on your terminal `pip install -r requirements.txt`.
+5. **Run the Program**: Execute the provided code, just type this command `flask run`.
 
 ## Documentation
 1. [ERD and Database Architecture](https://github.com/nibroosauro/Rest-API-for-Bookstore-Scheme/blob/main/Documentation/Report%20of%20Expanding%20Database%20and%20It's%20Architecture.pdf) 
